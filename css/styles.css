@@ -4,3 +4,11 @@
     box-sizing: border-box;
     font-family: helvetica;
 }
+
+/*Cabeçalho */
+header {
+    background-color: #f76a04;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
